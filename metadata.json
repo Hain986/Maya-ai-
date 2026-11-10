@@ -1,0 +1,6 @@
+{
+  "name": "MAYA AI",
+  "description": "Futuristic AI Voice Assistant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
